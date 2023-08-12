@@ -1,4 +1,4 @@
-[![MasterHead]([https://i.pinimg.com/originals/a2/4c/b5/a24cb568fa40046f8562dbc45cea8506.gif](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dfredg5-0a60e875-646e-4d6c-bb91-73086f012808.gif))](https://rishavchanda.io)
+[![MasterHead](https://i.ibb.co/v1TYkX3/dfredg5-0a60e875-646e-4d6c-bb91-73086f012808.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aymane Sadiki</h1>
 <h3 align="center">A passionate backend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/MixedSkinnyArcticfox-max-1mb.gif">
