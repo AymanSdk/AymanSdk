@@ -1,6 +1,6 @@
 [![MasterHead](https://i.ibb.co/v1TYkX3/dfredg5-0a60e875-646e-4d6c-bb91-73086f012808.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aymane Sadiki</h1>
-<h3 align="center">A passionate backend developer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/MixedSkinnyArcticfox-max-1mb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aymansdk&label=Profile%20views&color=0e75b6&style=flat" alt="aymansdk" /> </p>
