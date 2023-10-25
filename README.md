@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/xenosmurfing" target="blank"><img src="https://img.shields.io/twitter/follow/xenosmurfing?logo=twitter&style=for-the-badge" alt="xenosmurfing" /></a> </p>
 
-- 🔭 I’m currently working on **Auto Billing System Project**
+- 🔭 I’m currently working on **FullStack Ecommerce Website/Admin**
 
 - 🌱 I’m currently learning **Low Level Programming languages at ALX software engineering Program**
 
