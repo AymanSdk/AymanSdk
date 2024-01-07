@@ -1,4 +1,4 @@
-[![MasterHead]([https://th.bing.com/th/id/OIG.HanZ0ZutSK65GZDZaODT?pid=ImgGn](https://i.giphy.com/13HgwGsXF0aiGY.webp))](https://rishavchanda.io)
+[![MasterHead]([https://th.bing.com/th/id/OIG.HanZ0ZutSK65GZDZaODT?pid=ImgGn](https://i.giphy.com/13HgwGsXF0aiGY.webp)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aymane Sadiki</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/MixedSkinnyArcticfox-max-1mb.gif">
