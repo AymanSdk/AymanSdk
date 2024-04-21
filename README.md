@@ -16,7 +16,9 @@
 - 📫 How to reach me **Ayman.sdk123@outlook.com**
 
 - ⚡ Fun fact **Coding Bugs were NOT named after an actual bug.**
-
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@aymansdk12326632/30-nites-of-code)  
+  ![@aymansdk12326632 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=aymansdk12326632)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/xenosmurfing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xenosmurfing" height="30" width="40" /></a>
