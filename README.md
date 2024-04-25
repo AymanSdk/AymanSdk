@@ -1,4 +1,3 @@
-[![MasterHead](https://i.ibb.co/v1TYkX3/dfredg5-0a60e875-646e-4d6c-bb91-73086f012808.gif)](https://rishavchanda.io)
 
 # 💫 About Me:
 🔭 I’m currently working on Collaborative Whiteboarding app <br>👯 I’m looking to collaborate on Any Open Source or private project<br>🌱 I’m currently learning Typescript<br>💬 Ask me about anything IT/Gaming related<br>⚡ Fun fact "An ostrich's eye is bigger than its brain"
