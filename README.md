@@ -1,4 +1,4 @@
-<a href="https://ibb.co/54Ntc2V"><img src="https://i.ibb.co/2hDmK5B/Github-Banner.png" alt="Github-Banner" border="0"></a>
+![Banner GitHub](./Assets/GithubBanner.png)
 
 # 💫 About Me:
 
