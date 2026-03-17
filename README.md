@@ -41,10 +41,13 @@
   <tr>
     <td valign="top" width="64%">
       <p>
-        I build practical software with a strong bias toward reliability, clarity, and maintainability. My background spans product engineering, DevOps, and systems work, with hands-on experience across frontend delivery, backend services, cloud platforms, and deployment pipelines.
+        I’m a full-stack software engineer and founder of Nextoria, a digital agency focused on building modern, high-performing digital products.
       </p>
       <p>
-        I moved into software engineering after a system analyst internship in manufacturing, then sharpened that path through an Information Systems degree and a Full Stack JavaScript bootcamp. Today, I work comfortably across product and infrastructure, using the right level of complexity for the problem instead of chasing novelty.
+        I specialize in TypeScript, JavaScript, and Python, working with technologies like React, Next.js, and Tailwind CSS to create scalable, clean, and user-focused applications. I care about structure, performance, and delivering solutions that actually solve real problems.
+      </p>
+      <p>
+        Beyond client work, I’m constantly building products, exploring new ideas, and refining my craft.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Based%20in-Morocco-312e81?style=flat-square&logo=googlemaps&logoColor=white" alt="Based in Morocco" />
