@@ -1,80 +1,277 @@
 ![Banner GitHub](./Assets/githubheader.png)
 
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmdazfar2%2FAymanSdk&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
-  <br><br>
-<a href=""><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
-<a href="mailto:ayman.sadiki123@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
-<a href=""><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=twitter&logoColor=0A0209" alt="xenosmurfing" ></a>
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmdazfar2%2FAymanSdk&label=VISITORS&labelColor=%23312e81&countColor=%23e0e7ff" alt="Visitor badge" />
+
+  <h1>Aymane Sadiki</h1>
+  <p>
+    Software engineer from Morocco focused on full-stack products, cloud-native systems, and clean developer experience.
+  </p>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3200&pause=1000&color=4338CA&center=true&vCenter=true&width=760&lines=Full-stack+product+engineering;Cloud-native+systems+and+DevOps;Clean+interfaces%2C+reliable+delivery%2C+practical+architecture" alt="Typing intro" />
+
+  <p>
+    <img src="https://img.shields.io/badge/Full--Stack-312e81?style=flat-square&logo=vercel&logoColor=white" alt="Full-stack" />
+    <img src="https://img.shields.io/badge/DevOps-e0e7ff?style=flat-square&logo=docker&logoColor=312e81" alt="DevOps" />
+    <img src="https://img.shields.io/badge/Cloud-4338ca?style=flat-square&logo=microsoftazure&logoColor=white" alt="Cloud" />
+    <img src="https://img.shields.io/badge/Open%20to%20Build-e0e7ff?style=flat-square&logo=githubsponsors&logoColor=312e81" alt="Open to build" />
+  </p>
+
+  <p>
+    <a href="mailto:ayman.sadiki123@gmail.com"><img src="https://img.shields.io/badge/Email-312e81?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.ayman-sadiki.me/"><img src="https://img.shields.io/badge/Portfolio-e0e7ff?style=for-the-badge&logo=vercel&logoColor=312e81" alt="Portfolio" /></a>
+    <a href="https://github.com/AymanSdk"><img src="https://img.shields.io/badge/GitHub-4338ca?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  </p>
+
+  <p>
+    <a href="#about">About</a> •
+    <a href="#signature-areas">Focus</a> •
+    <a href="#core-stack">Stack</a> •
+    <a href="#toolbox">Toolbox</a> •
+    <a href="#engineering-style">Approach</a> •
+    <a href="#github-snapshot">Stats</a>
+  </p>
 </div>
-
-<!-- About me section -->
-
-<p align="center"> I am a passionate software developer with expertise in building innovative, full-stack applications. After transitioning from a System Analyst Internship in the manufacturing industry, I pursued my passion for web development by completing an Information Systems degree and a Full Stack JavaScript Bootcamp. Proficient in modern technologies such as Next.js, TypeScript, and Tailwind CSS, I deliver elegant and efficient digital solutions. With strong skills across both frontend and backend,</p>
-
-<!-- Techinical Skills -->
-
-### <p align="center">Technical Skills</p>
-
-<p align="center">
-  <a href="https://www.aymane-sadiki.me/">
-    <img src="https://skillicons.dev/icons?i=nextjs,docker,linux,react,js,kubernetes,ts,nodejs,git" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://www.aymane-sadiki.me/">
-    <img src="https://skillicons.dev/icons?i=azure,mint,notion,python,prometheus,gitlab,c,github,wordpress" />
-  </a>
-</p>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<div>
-
-<i>&nbsp; All growth depends upon activity</i><br><br>
-
-👋 Welcome, and thank you for visiting my GitHub! I'm Aymane Sadiki, a software engineer from Morocco, and I'm thrilled you're here to explore my work.
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-# Tech Stack <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
-
-| <samp>Tools & Technologies</samp>  | <samp>Badge</samp>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <samp>DevOps</samp>                | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![openshift](https://img.shields.io/badge/openshift-%230db7ed.svg?style=for-the-badge&logo=openshift&logoColor=white) ![microservices](https://img.shields.io/badge/microservices-%230075A8.svg?style=for-the-badge&logo=microservices&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) |
-| <samp>Cloud Platforms </samp>      | ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)                                                                                                                                                                                                                                                                                                                                                                                   |
-| <samp>Operating System</samp>      | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)                                                                                              |
-| <samp>Programming Languages</samp> | ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)                                                                                                                                                   |
-| <samp>Frameworks</samp>            | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| <samp>IDE</samp>                   | ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)                                                                                                                                                                                                                                                                                                                                                  |
-| <samp>Version Control</samp>       | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| <samp>Servers</samp>               | ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| <samp>Databases</samp>             | ![mysql](https://img.shields.io/badge/mysql-%234ea94b.svg?style=for-the-badge&logo=mysql&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<!-- Hr is the line in between -->
-
-<p align="center">
-   <a>
-   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AymanSdk&theme=gruvbox&hide_border=true"/>
-   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png"> 
-   </a>
-</p>
-
-# 📊 GitHub Stats:
-
-<p align='center'><img src='https://github-readme-stats.vercel.app/api?username=AymanSdk&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true' /></p>
-<p align='center'><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=AymanSdk&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true&layout=compact' /></p>
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=AymanSdk&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-
-<p align='center'><img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox' /><p/>
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+<table>
+  <tr>
+    <td valign="top" width="64%">
+      <p>
+        I build practical software with a strong bias toward reliability, clarity, and maintainability. My background spans product engineering, DevOps, and systems work, with hands-on experience across frontend delivery, backend services, cloud platforms, and deployment pipelines.
+      </p>
+      <p>
+        I moved into software engineering after a system analyst internship in manufacturing, then sharpened that path through an Information Systems degree and a Full Stack JavaScript bootcamp. Today, I work comfortably across product and infrastructure, using the right level of complexity for the problem instead of chasing novelty.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Based%20in-Morocco-312e81?style=flat-square&logo=googlemaps&logoColor=white" alt="Based in Morocco" />
+        <img src="https://img.shields.io/badge/Specialty-Full--stack%20%26%20DevOps-e0e7ff?style=flat-square&logo=stackshare&logoColor=312e81" alt="Specialty" />
+        <img src="https://img.shields.io/badge/Focus-Reliable%20systems-4338ca?style=flat-square&logo=datadog&logoColor=white" alt="Reliable systems" />
+      </p>
+    </td>
+    <td valign="top" width="36%">
+      <h3>At a Glance</h3>
+      <p>Building thoughtful products, dependable delivery pipelines, and maintainable systems.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Product%20Mindset-e0e7ff?style=flat-square&logo=linear&logoColor=312e81" alt="Product mindset" />
+        <img src="https://img.shields.io/badge/Cloud%20Ready-312e81?style=flat-square&logo=kubernetes&logoColor=white" alt="Cloud ready" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Clean%20UI-4338ca?style=flat-square&logo=figma&logoColor=white" alt="Clean UI" />
+        <img src="https://img.shields.io/badge/Reliable%20Ops-e0e7ff?style=flat-square&logo=prometheus&logoColor=312e81" alt="Reliable ops" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+## Signature Areas
+
+<a id="signature-areas"></a>
+
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="25%" align="center">
+        <h3>Product Engineering</h3>
+        <p>Building polished user-facing experiences with strong technical foundations.</p>
+        <img src="https://img.shields.io/badge/Next.js-312e81?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/React-e0e7ff?style=flat-square&logo=react&logoColor=312e81" alt="React" />
+      </td>
+      <td valign="top" width="25%" align="center">
+        <h3>Cloud Infrastructure</h3>
+        <p>Designing environments that scale, deploy cleanly, and stay operable in production.</p>
+        <img src="https://img.shields.io/badge/Kubernetes-e0e7ff?style=flat-square&logo=kubernetes&logoColor=312e81" alt="Kubernetes" />
+        <img src="https://img.shields.io/badge/Azure-4338ca?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+      </td>
+      <td valign="top" width="25%" align="center">
+        <h3>Developer Experience</h3>
+        <p>Improving workflows, automation, and team velocity without adding unnecessary process.</p>
+        <img src="https://img.shields.io/badge/Git-312e81?style=flat-square&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/Jenkins-e0e7ff?style=flat-square&logo=jenkins&logoColor=312e81" alt="Jenkins" />
+      </td>
+      <td valign="top" width="25%" align="center">
+        <h3>Operational Visibility</h3>
+        <p>Keeping systems observable, measurable, and easier to support over time.</p>
+        <img src="https://img.shields.io/badge/Prometheus-e0e7ff?style=flat-square&logo=prometheus&logoColor=312e81" alt="Prometheus" />
+        <img src="https://img.shields.io/badge/Linux-4338ca?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p align="center">
+  Building full-stack applications with modern web tooling, designing scalable delivery environments, and improving engineering workflows so products remain fast, maintainable, and dependable as they grow.
+</p>
+
+## Core Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,python,docker,kubernetes,linux" alt="Core technologies row 1" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,azure,gcp,firebase,prometheus,jenkins,terraform,mysql" alt="Core technologies row 2" />
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-ffffff?style=flat-square&logo=react&logoColor=312e81&labelColor=e0e7ff" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Backend-ffffff?style=flat-square&logo=nodedotjs&logoColor=312e81&labelColor=e0e7ff" alt="Backend" />
+  <img src="https://img.shields.io/badge/DevOps-ffffff?style=flat-square&logo=docker&logoColor=312e81&labelColor=e0e7ff" alt="DevOps" />
+  <img src="https://img.shields.io/badge/Cloud-ffffff?style=flat-square&logo=microsoftazure&logoColor=312e81&labelColor=e0e7ff" alt="Cloud" />
+  <img src="https://img.shields.io/badge/Systems-ffffff?style=flat-square&logo=linux&logoColor=312e81&labelColor=e0e7ff" alt="Systems" />
+</p>
+
+<p align="center">
+  A stack chosen for delivery: modern web interfaces, automation-friendly backends, containerized deployment, and infrastructure that stays understandable.
+</p>
+
+## Toolbox
+
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <h3>Frontend</h3>
+        <p>Modern interfaces with multi-framework experience and a strong React ecosystem toolchain.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Next.js-312e81?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+          <img src="https://img.shields.io/badge/React-e0e7ff?style=flat-square&logo=react&logoColor=312e81" alt="React" />
+          <img src="https://img.shields.io/badge/Redux-312e81?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
+          <img src="https://img.shields.io/badge/Remix-e0e7ff?style=flat-square&logo=remix&logoColor=312e81" alt="Remix" />
+          <img src="https://img.shields.io/badge/Gatsby-312e81?style=flat-square&logo=gatsby&logoColor=white" alt="Gatsby" />
+          <img src="https://img.shields.io/badge/Vue-e0e7ff?style=flat-square&logo=vuedotjs&logoColor=312e81" alt="Vue" />
+          <img src="https://img.shields.io/badge/Nuxt-4338ca?style=flat-square&logo=nuxt&logoColor=white" alt="Nuxt" />
+          <img src="https://img.shields.io/badge/Svelte-e0e7ff?style=flat-square&logo=svelte&logoColor=312e81" alt="Svelte" />
+          <img src="https://img.shields.io/badge/Vite-312e81?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+          <img src="https://img.shields.io/badge/TypeScript-4338ca?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+          <img src="https://img.shields.io/badge/JavaScript-e0e7ff?style=flat-square&logo=javascript&logoColor=312e81" alt="JavaScript" />
+          <img src="https://img.shields.io/badge/Tailwind-312e81?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+        </p>
+        <img src="https://skillicons.dev/icons?i=nextjs,react,redux,vue,nuxtjs,svelte,vite,ts,js,tailwind" alt="Frontend tools" />
+      </td>
+      <td valign="top" width="50%">
+        <h3>Backend</h3>
+        <p>API development, automation, service design, and modern backend platform tooling.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Node.js-312e81?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+          <img src="https://img.shields.io/badge/Python-e0e7ff?style=flat-square&logo=python&logoColor=312e81" alt="Python" />
+          <img src="https://img.shields.io/badge/REST%20APIs-4338ca?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" />
+          <img src="https://img.shields.io/badge/Appwrite-e0e7ff?style=flat-square&logo=appwrite&logoColor=312e81" alt="Appwrite" />
+          <img src="https://img.shields.io/badge/Convex-312e81?style=flat-square&logo=convex&logoColor=white" alt="Convex" />
+          <img src="https://img.shields.io/badge/Postman-e0e7ff?style=flat-square&logo=postman&logoColor=312e81" alt="Postman" />
+          <img src="https://img.shields.io/badge/Bash-312e81?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+        </p>
+        <img src="https://skillicons.dev/icons?i=nodejs,python,express,appwrite,postgres,postman,bash" alt="Backend tools" />
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" width="50%">
+        <h3>DevOps</h3>
+        <p>Deployment pipelines, infrastructure automation, and containerized operations.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Docker-312e81?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+          <img src="https://img.shields.io/badge/Kubernetes-e0e7ff?style=flat-square&logo=kubernetes&logoColor=312e81" alt="Kubernetes" />
+          <img src="https://img.shields.io/badge/Jenkins-4338ca?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+          <img src="https://img.shields.io/badge/Ansible-e0e7ff?style=flat-square&logo=ansible&logoColor=312e81" alt="Ansible" />
+          <img src="https://img.shields.io/badge/Terraform-312e81?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+        </p>
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,ansible,terraform" alt="DevOps tools" />
+      </td>
+      <td valign="top" width="50%">
+        <h3>Cloud</h3>
+        <p>Azure-first delivery with practical experience across complementary platforms.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Azure-4338ca?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+          <img src="https://img.shields.io/badge/Google%20Cloud-e0e7ff?style=flat-square&logo=googlecloud&logoColor=312e81" alt="Google Cloud" />
+          <img src="https://img.shields.io/badge/Firebase-312e81?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
+        </p>
+        <img src="https://skillicons.dev/icons?i=azure,gcp,firebase" alt="Cloud tools" />
+      </td>
+    </tr>
+    <tr>
+      <td valign="top" width="50%">
+        <h3>Systems</h3>
+        <p>Reliable local workflows, source control, and day-to-day engineering tooling.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Linux-312e81?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
+          <img src="https://img.shields.io/badge/Git-e0e7ff?style=flat-square&logo=git&logoColor=312e81" alt="Git" />
+          <img src="https://img.shields.io/badge/GitHub-4338ca?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+          <img src="https://img.shields.io/badge/GitLab-e0e7ff?style=flat-square&logo=gitlab&logoColor=312e81" alt="GitLab" />
+          <img src="https://img.shields.io/badge/VS%20Code-312e81?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+        </p>
+        <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,vscode" alt="Systems tools" />
+      </td>
+      <td valign="top" width="50%">
+        <h3>Data</h3>
+        <p>Relational data platforms, hosted Postgres, and modern TypeScript ORM workflows.</p>
+        <p>
+          <img src="https://img.shields.io/badge/MySQL-312e81?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+          <img src="https://img.shields.io/badge/PostgreSQL-e0e7ff?style=flat-square&logo=postgresql&logoColor=312e81" alt="PostgreSQL" />
+          <img src="https://img.shields.io/badge/Neon-312e81?style=flat-square&logo=neon&logoColor=white" alt="Neon" />
+          <img src="https://img.shields.io/badge/Supabase-e0e7ff?style=flat-square&logo=supabase&logoColor=312e81" alt="Supabase" />
+          <img src="https://img.shields.io/badge/Prisma-312e81?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+          <img src="https://img.shields.io/badge/Drizzle%20ORM-e0e7ff?style=flat-square&logo=drizzle&logoColor=312e81" alt="Drizzle ORM" />
+          <img src="https://img.shields.io/badge/Data%20Modeling-e0e7ff?style=flat-square&logo=databricks&logoColor=312e81" alt="Data modeling" />
+        </p>
+        <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,supabase" alt="Data tools" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+## Building Right Now
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Shipping-Full--stack%20applications-312e81?style=for-the-badge&logo=vercel&logoColor=white" alt="Shipping full-stack applications" />
+  <img src="https://img.shields.io/badge/Hardening-Deployment%20workflows-e0e7ff?style=for-the-badge&logo=docker&logoColor=312e81" alt="Hardening deployment workflows" />
+  <img src="https://img.shields.io/badge/Exploring-Cloud%20operations-4338ca?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Exploring cloud operations" />
+</div>
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>What I Optimize</h3>
+      <p>Clarity in code, low-friction deployment, and interfaces that feel intentional.</p>
+    </td>
+    <td valign="top" width="33%">
+      <h3>What I Value</h3>
+      <p>Maintainability, observability, and solutions that help teams move with confidence.</p>
+    </td>
+    <td valign="top" width="33%">
+      <h3>What I Avoid</h3>
+      <p>Complexity without payoff, decorative tooling, and abstractions that hide the real problem.</p>
+    </td>
+  </tr>
+</table>
+
+## Engineering Approach
+
+<a id="engineering-style"></a>
+
+- Prefer simple architectures that scale cleanly over early abstraction
+- Treat performance, deployment, and maintainability as product concerns
+- Keep interfaces polished, but keep systems observable and operable
+- Work across the stack when that is what delivery requires
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Architecture-Practical-e0e7ff?style=flat-square&logo=diagramsdotnet&logoColor=312e81" alt="Architecture practical" />
+  <img src="https://img.shields.io/badge/Delivery-Reliable-312e81?style=flat-square&logo=githubactions&logoColor=white" alt="Delivery reliable" />
+  <img src="https://img.shields.io/badge/Interfaces-Clean-e0e7ff?style=flat-square&logo=figma&logoColor=312e81" alt="Interfaces clean" />
+  <img src="https://img.shields.io/badge/Systems-Observable-4338ca?style=flat-square&logo=prometheus&logoColor=white" alt="Systems observable" />
+</div>
+
+## GitHub Snapshot
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AymanSdk&show_icons=true&hide_border=true&title_color=312e81&icon_color=4338ca&text_color=475569&bg_color=ffffff" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AymanSdk&layout=compact&hide_border=true&title_color=312e81&text_color=475569&bg_color=ffffff" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AymanSdk&hide_border=true&ring=4338ca&fire=4338ca&currStreakLabel=312e81&sideLabels=475569&dates=64748b&background=ffffff&stroke=e0e7ff" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AymanSdk&bg_color=ffffff&color=312e81&line=4338ca&point=64748b&area=true&hide_border=true" alt="GitHub activity graph" />
+</div>
